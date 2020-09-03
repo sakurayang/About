@@ -1,5 +1,9 @@
 # ~/amphineko
 
+## This repository is modify by Gerard
+
+---
+
 This repository is the repository of my homepage (https://futa.moe/amphineko/) that can be used as a template.
 
 Visit https://amphineko.github.io/amphineko/ for a live deployment of the `master` branch.

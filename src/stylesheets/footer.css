@@ -4,16 +4,16 @@
 }
 
 .copyright {
-    background: #354c64;
-    color: #aaa;
+    background: #ffffff8a;
+    color: #f56a94;
     font-size: 0.9em;
     line-height: 2em;
     padding: 0.5em 1em;
 }
 
 .hosting {
-    background: #354c64;
-    color: #ddd;
+    background: #ffffff8a;
+    color: #f56a94;
     font-size: 0.9em;
     font-weight: normal;
     display: block;
@@ -22,5 +22,5 @@
 }
 
 .hosting .link {
-    color: #acd;
+    color: #d15c7f;
 }

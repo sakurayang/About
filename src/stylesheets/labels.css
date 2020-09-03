@@ -6,7 +6,7 @@
 }
 
 .label-group .header {
-    color: white;
+    color: rgb(0, 0, 0);
     display: block;
     font-size: 0.8em;
     left: 0;
@@ -21,7 +21,7 @@
 }
 
 .label-group .label {
-    background: #eee;
+    background: #ffffff8c;
     box-shadow: 0 0 0.15em 0.15em rgba(0, 0, 0, 0.1);
     color: #333;
     display: inline-block;
